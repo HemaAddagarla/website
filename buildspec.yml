@@ -3,9 +3,9 @@ version: 0.2
 env:
   variables:
     AWS_ACCOUNT_ID: "471112724918"
-    REPOSITORY_NAME: "websiterepo"
-    CONTAINER_NAME: "website"
-    CLUSTER_NAME: "websitecluster"
+    REPOSITORY_NAME: "website-repo"
+    CONTAINER_NAME: "website-cont"
+    CLUSTER_NAME: "website-cluster-1"
     AWS_DEFAULT_REGION: "ap-south-1"
     IMAGE_TAG: "latest"
 phases:
